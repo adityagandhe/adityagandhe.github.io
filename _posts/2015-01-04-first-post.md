@@ -1,7 +1,12 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: Coming soon
+subtitle: Each post also has a subtitle
+gh-repo: 
+gh-badge: 
+tags: [test]
 ---
 
-This is my first post, how exciting!
+
+
+Coming Soon
