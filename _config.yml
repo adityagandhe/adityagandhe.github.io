@@ -73,12 +73,12 @@ author:
 social-network-links:
   rss: true
   email: "aditya.gandhe@live.com"
-# facebook: daattali
+  facebook: daattali
   github: adityagandhe
   twitter: achillesaditya
 #  reddit: yourname
 #  google-plus: +DeanAttali
-   linkedin: aditya-gandhe-361b1224
+#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -88,7 +88,7 @@ social-network-links:
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
-#  yelp: yourname
+#  yel
 
 # Select which share links to show in posts
 share-links-active:
